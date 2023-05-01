@@ -1,6 +1,6 @@
 # 📖 Vet Clinic Database <a name="about-project"></a>
 
-**Vet Clinic Database** is a project which displays animals information and their status. Update and delete values in the table created.
+**Vet Clinic Database** is a project I will create a table to store animals' information, insert some data into it, and query it.
 
 ## 🛠 Built With <a name="built-with"></a>
 
