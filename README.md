@@ -28,7 +28,7 @@
 
 Vet Clinic Database is a relational database to store animals' information, insert data and query data for processing.
 
-In this project, records will be updated and deleted records. Aggregate functions and GROUP BY will be used to answer analytical questions.
+In this project, records will be updated and deleted. Aggregate functions and GROUP BY will be used to answer analytical questions.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -188,6 +188,8 @@ If you like this project please don't forget to give me a star
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank microverse for providing me the template for this project
+
+I would also like to thank my coding partner [Stephen Adom Addae](https://github.com/Stephen-Adom) for helping me with the little things.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
