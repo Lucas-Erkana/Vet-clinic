@@ -26,7 +26,9 @@
 
 # 📖 [Vet Clinic Database] <a name="about-project"></a>
 
-Vet Clinic Database is a relational database to store animals' information, insert data nd query data for processing
+Vet Clinic Database is a relational database to store animals' information, insert data and query data for processing.
+
+In this project, records will be updated and deleted records. Aggregate functions and GROUP BY will be used to answer analytical questions.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -45,6 +47,8 @@ Vet Clinic Database is a relational database to store animals' information, inse
 
 - **Database named vet-clinic**
 - **Table named animal**
+- **Update animal table**
+- **Aggregate animal table**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,8 +158,10 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Add Column To Table**
-- [ ] **Create Bridge Table**
+- [ ] **Add more tables**
+- [ ] **Query multiple tables**
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
