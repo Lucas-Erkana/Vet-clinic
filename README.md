@@ -87,8 +87,8 @@ Go to [postgres website](https://www.postgresql.org/) and download the installer
 Clone this repository to your desired folder:
 
 ```sh
-  git clone git@github.com/Stephen-Adom/vet-clinic-database
-  cd vet-clinic-database
+  git clone git@github.com/Lucash20022/Vet-clinic
+  cd vet-clinic
 ```
 
 ### Install
