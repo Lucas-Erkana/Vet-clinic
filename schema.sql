@@ -8,3 +8,11 @@ CREATE TABLE animals (
     neutered bool,
     weight_kg float
 );
+
+ALTER TABLE animals
+ALTER COLUMN id ADD GENERATED ALWAYS AS IDENTITY;
+
+ALTER TABLE animals ADD COLUMN species VARCHAR(255);
+
+ALTER TABLE animals
+ALTER COLUMN weight_kg TYPE DECIMAL(10,2);

@@ -26,7 +26,9 @@
 
 # 📖 [Vet Clinic Database] <a name="about-project"></a>
 
-Vet Clinic Database is a relational database to store animals' information, insert data nd query data for processing
+Vet Clinic Database is a relational database to store animals' information, insert data and query data for processing.
+
+In this project, records will be updated and deleted. Aggregate functions and GROUP BY will be used to answer analytical questions.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -45,6 +47,8 @@ Vet Clinic Database is a relational database to store animals' information, inse
 
 - **Database named vet-clinic**
 - **Table named animal**
+- **Update animal table**
+- **Aggregate animal table**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,8 +87,8 @@ Go to [postgres website](https://www.postgresql.org/) and download the installer
 Clone this repository to your desired folder:
 
 ```sh
-  git clone git@github.com/Stephen-Adom/vet-clinic-database
-  cd vet-clinic-database
+  git clone git@github.com/Lucash20022/Vet-clinic
+  cd vet-clinic
 ```
 
 ### Install
@@ -154,8 +158,10 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Add Column To Table**
-- [ ] **Create Bridge Table**
+- [ ] **Add more tables**
+- [ ] **Query multiple tables**
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -182,6 +188,8 @@ If you like this project please don't forget to give me a star
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank microverse for providing me the template for this project
+
+I would also like to thank my coding partner [Stephen Adom Addae](https://github.com/Stephen-Adom) for helping me with the little things.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
