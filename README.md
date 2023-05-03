@@ -92,6 +92,7 @@ Clone this repository to your desired folder:
   cd vet-clinic
 ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
