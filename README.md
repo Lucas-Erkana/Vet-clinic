@@ -24,11 +24,13 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Vet Clinic Database] <a name="about-project"></a>
+# 📖 Vet Clinic Database <a name="about-project"></a>
 
-Vet Clinic Database is a relational database to store animals' information, insert data and query data for processing.
+1. Vet Clinic Database is a relational database to store animals' information, insert data and query data for processing.
 
-In this project, records will be updated and deleted. Aggregate functions and GROUP BY will be used to answer analytical questions.
+2. In this project, records will be updated and deleted. Aggregate functions and GROUP BY will be used to answer analytical questions.
+
+3. In this project new tables and a foreign key columns will be added to the existing animals table to model one-to-many relationships. Afterward, JOIN will be used to query the data.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -49,6 +51,7 @@ In this project, records will be updated and deleted. Aggregate functions and GR
 - **Table named animal**
 - **Update animal table**
 - **Aggregate animal table**
+- **Query multiple tables**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -158,8 +161,9 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Add more tables**
-- [ ] **Query multiple tables**
+- [ ] **add "join table" for visits**
+- [ ] **database performance audit**
+- [ ] **add database schema diagram**
 
 
 
