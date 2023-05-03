@@ -24,11 +24,13 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Vet Clinic Database] <a name="about-project"></a>
+# 📖 Vet Clinic Database <a name="about-project"></a>
 
-Vet Clinic Database is a relational database to store animals' information, insert data and query data for processing.
+1. Vet Clinic Database is a relational database to store animals' information, insert data and query data for processing.
 
-In this project, records will be updated and deleted. Aggregate functions and GROUP BY will be used to answer analytical questions.
+2. In this project, records will be updated and deleted. Aggregate functions and GROUP BY will be used to answer analytical questions.
+
+3. In this project new tables and a foreign key columns will be added to the existing animals table to model one-to-many relationships. Afterward, JOIN will be used to query the data.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -49,6 +51,7 @@ In this project, records will be updated and deleted. Aggregate functions and GR
 - **Table named animal**
 - **Update animal table**
 - **Aggregate animal table**
+- **Query multiple tables**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -56,9 +59,7 @@ In this project, records will be updated and deleted. Aggregate functions and GR
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Not Available](<replace-with-your-deployment-URL>)
+- Not Available
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,57 +92,7 @@ Clone this repository to your desired folder:
   cd vet-clinic
 ```
 
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -158,8 +109,9 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Add more tables**
-- [ ] **Query multiple tables**
+- [ ] **add "join table" for visits**
+- [ ] **database performance audit**
+- [ ] **add database schema diagram**
 
 
 
@@ -197,7 +149,7 @@ I would also like to thank my coding partner [Stephen Adom Addae](https://github
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://github.com/Lucash2022/Vet-clinic/blob/clinic/LICENSE) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
