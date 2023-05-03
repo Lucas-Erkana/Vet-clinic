@@ -34,3 +34,5 @@ DROP COLUMN species;
 ALTER TABLE animals 
 ADD COLUMN species_id INTEGER REFERENCES species(id);
 
+ALTER TABLE animals 
+ADD COLUMN owner_id INTEGER REFERENCES owners(id);
