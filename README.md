@@ -32,6 +32,8 @@
 
 3. In this project new tables and a foreign key columns will be added to the existing animals table to model one-to-many relationships. Afterward, JOIN will be used to query the data.
 
+4. In this project, many-to-many relationships will be added and more complex queries to be used to answer questions will be written.
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -52,6 +54,7 @@
 - **Update animal table**
 - **Aggregate animal table**
 - **Query multiple tables**
+- **Many-to-Many relationships**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
