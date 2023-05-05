@@ -57,3 +57,24 @@ VALUES ('William Tatcher', 45, '2000-04-23'),
        ('Stephanie Mendez', 64, '1981-05-04'),
        ('Jack Harkness', 38, '2008-06-08');
 
+-- Get the IDs of the vets
+SELECT id FROM vets WHERE name = 'William Tatcher';
+
+-- Insert the specialization for William Tatcher
+INSERT INTO specializations (vet_id, species_id)
+VALUES (1, 1);
+
+-- Get the IDs of the vets
+SELECT id FROM vets WHERE name = 'Stephanie Mendez';
+
+-- Insert the specializations for Stephanie Mendez
+INSERT INTO specializations (vet_id, species_id)
+VALUES (3, 1), (3, 2);
+
+-- Get the IDs of the vets
+SELECT id FROM vets WHERE name = 'Jack Harkness';
+
+-- Insert the specialization for Jack Harkness
+INSERT INTO specializations (vet_id, species_id)
+VALUES (4, 2);
+
