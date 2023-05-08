@@ -34,6 +34,8 @@
 
 4. In this project, many-to-many relationships will be added and more complex queries to be used to answer questions will be written.
 
+5. In this project we([Lucas](https://github.com/Lucash2022) and [Kevin](https://github.com/Kevin-Mena)) will have a chance to optimize some slow queries in our database.
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -55,6 +57,7 @@
 - **Aggregate animal table**
 - **Query multiple tables**
 - **Many-to-Many relationships**
+- **database performance audit**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,15 +102,19 @@ Clone this repository to your desired folder:
 - Twitter: [@Lucas_David_22](https://twitter.com/@Lucas_David_22)
 - LinkedIn: [Lucas Erkana](https://www.linkedin.com/in/lucas-erkana/)
 
+👤 **Kevin Okoth**
+
+- GitHub: [@Kevin-Mena](https://github.com/Kevin-Mena)
+- Twitter: [@Fmenawende](https://twitter.com/Fmenawende)
+- LinkedIn: [Kevin Okoth](in/kevin-okoth-19407119b)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **add "join table" for visits**
-- [ ] **database performance audit**
-- [ ] **add database schema diagram**
+- [ ] ** add database schema diagram**
+
 
 
 
