@@ -61,7 +61,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -72,8 +71,8 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need postgres:
 
- On Linux:
- 
+On Linux:
+
 ```sh
  sudo apt-get install postgresql postgresql-contrib libpq-dev
 ```
@@ -106,7 +105,7 @@ Clone this repository to your desired folder:
 
 - GitHub: [@Kevin-Mena](https://github.com/Kevin-Mena)
 - Twitter: [@Fmenawende](https://twitter.com/Fmenawende)
-- LinkedIn: [Kevin Okoth](in/kevin-okoth-19407119b)
+- LinkedIn: [Kevin Okoth](https://www.linkedin.com/in/kevin-okoth/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -114,9 +113,6 @@ Clone this repository to your desired folder:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] ** add database schema diagram**
-
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,8 +147,5 @@ I would also like to thank my coding partner [Stephen Adom Addae](https://github
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
