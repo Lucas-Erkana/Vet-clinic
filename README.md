@@ -34,6 +34,8 @@
 
 4. In this project, many-to-many relationships will be added and more complex queries to be used to answer questions will be written.
 
+5. In this project we([Lucas](https://github.com/Lucash2022) and [Kevin](https://github.com/Kevin-Mena)) will have a chance to optimize some slow queries in our database.
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -55,9 +57,9 @@
 - **Aggregate animal table**
 - **Query multiple tables**
 - **Many-to-Many relationships**
+- **database performance audit**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- GETTING STARTED -->
 
@@ -69,8 +71,8 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need postgres:
 
- On Linux:
- 
+On Linux:
+
 ```sh
  sudo apt-get install postgresql postgresql-contrib libpq-dev
 ```
@@ -99,17 +101,18 @@ Clone this repository to your desired folder:
 - Twitter: [@Lucas_David_22](https://twitter.com/@Lucas_David_22)
 - LinkedIn: [Lucas Erkana](https://www.linkedin.com/in/lucas-erkana/)
 
+👤 **Kevin Okoth**
+
+- GitHub: [@Kevin-Mena](https://github.com/Kevin-Mena)
+- Twitter: [@Fmenawende](https://twitter.com/Fmenawende)
+- LinkedIn: [Kevin Okoth](https://www.linkedin.com/in/kevin-okoth/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **add "join table" for visits**
-- [ ] **database performance audit**
-- [ ] **add database schema diagram**
-
-
+- [ ] ** add database schema diagram**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,8 +147,5 @@ I would also like to thank my coding partner [Stephen Adom Addae](https://github
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
