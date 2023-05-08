@@ -63,3 +63,7 @@ ALTER TABLE owners ADD COLUMN email VARCHAR(120);
 
 -- CREATE INDEX to decrease the execution time
 CREATE INDEX visits_index ON visits (animal_id DESC);
+
+
+-- CREATE INDEX to decrease the execution time
+CREATE INDEX owners_index ON owners (email ASC);
