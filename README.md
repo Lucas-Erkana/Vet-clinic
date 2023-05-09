@@ -36,6 +36,8 @@
 
 5. In this project we([Lucas](https://github.com/Lucash2022) and [Kevin](https://github.com/Kevin-Mena)) will have a chance to optimize some slow queries in our database.
 
+6. Inn this project we([Lucas](https://github.com/Lucash2022) and [Kevin](https://github.com/Kevin-Mena))  will use your existing project and create a database schema diagram for it.
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -58,6 +60,7 @@
 - **Query multiple tables**
 - **Many-to-Many relationships**
 - **database performance audit**
+- **database schema diagram**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,7 +115,7 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] ** add database schema diagram**
+- [ ] ** Increase functionality **
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
