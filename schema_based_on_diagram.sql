@@ -22,3 +22,13 @@ CREATE TABLE treatments (
   type VARCHAR(255),
   name VARCHAR(255)
 );
+
+--Create the invoices
+CREATE TABLE invoices (
+  id INT PRIMARY KEY,
+  total_amount DECIMAL(10,2),
+  generated_id TIMESTAMP,
+  payed_at TIMESTAMP,
+  medical_history_id INT,
+  FOREIGN KEY (medical_history_id) REFERENCES medical_histories(Id)
+);
