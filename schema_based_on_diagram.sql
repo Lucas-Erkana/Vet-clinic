@@ -44,3 +44,13 @@ CREATE TABLE invoice_items (
   FOREIGN KEY (invoice_id) REFERENCES invoices(id),
   FOREIGN KEY (treatment_id) REFERENCES treatments(Id)
 );
+
+-- create join tables for many to many relations
+CREATE TABLE medical_histories_treatment (
+  medical_histories_id INT NOT NULL,
+  treatments_id INT NOT NULL,
+  CONSTRAINT fk_medical_histories
+   FOREIGN KEY(medical_histories_id) REFERENCES medical_histories(id),
+  CONSTRAINT fk_treatments
+   FOREIGN KEY(treatments_id) REFERENCES treatments(id)
+);
