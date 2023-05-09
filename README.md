@@ -36,7 +36,7 @@
 
 5. In this project we([Lucas](https://github.com/Lucash2022) and [Kevin](https://github.com/Kevin-Mena)) will have a chance to optimize some slow queries in our database.
 
-6. Inn this project we([Lucas](https://github.com/Lucash2022) and [Kevin](https://github.com/Kevin-Mena))  will use your existing project and create a database schema diagram for it.
+6. In this project we([Lucas](https://github.com/Lucash2022) and [Kevin](https://github.com/Kevin-Mena))  will use your existing project and create a database schema diagram for it.
 
 ## 🛠 Built With <a name="built-with"></a>
 
