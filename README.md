@@ -36,7 +36,7 @@
 
 5. In this project we([Lucas](https://github.com/Lucash2022) and [Kevin](https://github.com/Kevin-Mena)) will have a chance to optimize some slow queries in our database.
 
-6. In this project we([Lucas](https://github.com/Lucash2022) and [Kevin](https://github.com/Kevin-Mena))  will use your existing project and create a database schema diagram for it.
+6. In this project we([Lucas](https://github.com/Lucash2022) and [Kevin](https://github.com/Kevin-Mena)) will use your existing project and create a database schema diagram for it.
 
 7. In this project we([Lucas](https://github.com/Lucash2022) and [Kevin](https://github.com/Kevin-Mena)) will get a database diagram, interpret it, and implement the SQL needed to build that database.
 
@@ -146,7 +146,7 @@ If you like this project please don't forget to give me a star
 
 I would like to thank microverse for providing me the template for this project
 
-I would also like to thank my coding partner [Stephen Adom Addae](https://github.com/Stephen-Adom) for helping me with the little things.
+I would also like to thank my coding partner [Kevin Okoth](https://github.com/Kevin-Mena) for helping me with the little things.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
